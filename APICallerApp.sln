@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "APICallerLibrary", "APICallerLibrary\APICallerLibrary.csproj", "{9EBDF736-CCDB-4F6F-896D-169C93D95EA7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APICallerUI", "APICallerUI\APICallerUI.csproj", "{0E1B6B4F-C414-481C-9269-FA3E4A3F5775}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9EBDF736-CCDB-4F6F-896D-169C93D95EA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EBDF736-CCDB-4F6F-896D-169C93D95EA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EBDF736-CCDB-4F6F-896D-169C93D95EA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EBDF736-CCDB-4F6F-896D-169C93D95EA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E1B6B4F-C414-481C-9269-FA3E4A3F5775}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E1B6B4F-C414-481C-9269-FA3E4A3F5775}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E1B6B4F-C414-481C-9269-FA3E4A3F5775}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E1B6B4F-C414-481C-9269-FA3E4A3F5775}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5B1BF134-B625-40D2-A917-D712DE009E08}
+	EndGlobalSection
+EndGlobal
